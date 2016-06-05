@@ -41,11 +41,16 @@ h2{
 	width: 70%;
 }
 
+h3{
+	font-weight: normal;
+  	margin-bottom: 0;
+  	color: #05080C;
+}
+
 p{
 	font-size: 16px;
 	font-family: serif;
 	text-align: left;
-	width: 70%;
 }
 
 li{
@@ -66,11 +71,7 @@ img{
     padding: 5px;
 }
 
-ul img{
-	width: 150px;
-	height: 150px;
-	background-color: white;
-	position: absolute;
-    left: 145px;
-    padding: 5px;
+img [alt]{
+	width: 80%;
+	height: 400px;
 }
